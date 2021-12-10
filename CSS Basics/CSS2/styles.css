@@ -1,0 +1,39 @@
+/*p.error{
+    color: red;
+}
+
+p.success{
+    color: #40dd40;
+}
+
+p.success.feedback{
+    border: 1px dashed #40dd40;
+}
+
+#content{
+    background-color: slategray;
+    padding: 20px;
+}*/
+
+/*div p{
+    color: purple;
+}
+
+a[href]{
+    background-color: seagreen;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}*/
+
+div{
+    color:salmon;
+    border: 1px solid palevioletred;
+    margin:20px;
+    font-weight: bold;
+}
+p{
+    margin:inherit;
+    border: inherit;
+}
